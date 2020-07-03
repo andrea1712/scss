@@ -1,0 +1,27 @@
+$color-borde:black;
+$color-principal:blue;
+$color-text:white;
+$ancho: 720px;
+
+
+@mixin familia {
+    font-family:  'Dancing Script', cursive;
+}
+
+.message{
+    color: $color-text;
+}
+
+div {
+    ul {
+        li {
+            background-color: $color-principal;
+            border: 2px solid $color-borde;
+            @include familia();
+            @extend .message;
+            width: ($ancho/2)-50;    
+        }
+    }
+}
+
+

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAMA,GAAI;EACA,gBAAgB,EAPF,sBAAsB;;AAUxC,MAAO;EACH,WAAW,EAAE,YAAyB;;AAG1C,CAAE;EACE,SAAS,EAXG,IAAI",
+"sources": ["ejemplo.scss"],
+"names": [],
+"file": "ejemploverdadero.css"
+}

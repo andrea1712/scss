@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAUA,mBAAQ;EACJ,KAAK,EATG,KAAK;;AAcT,SAAG;EACC,gBAAgB,EAhBX,IAAI;EAiBT,MAAM,EAAE,eAAsB;EAXtC,WAAW,EAAG,yBAAyB;EAc/B,KAAK,EAAE,KAAa",
+"sources": ["actividad.scss"],
+"names": [],
+"file": "actividad.css"
+}

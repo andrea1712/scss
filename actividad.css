@@ -1,0 +1,10 @@
+.message, div ul li {
+  color: white; }
+
+div ul li {
+  background-color: blue;
+  border: 2px solid black;
+  font-family: 'Dancing Script', cursive;
+  width: 310px; }
+
+/*# sourceMappingURL=actividad.css.map */
